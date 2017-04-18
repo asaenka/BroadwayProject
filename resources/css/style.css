@@ -1,0 +1,97 @@
+.landing-page__header{
+  background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
+}
+
+
+.header-main{
+  font-family:Helvetica;
+  font-size:70px;
+  font-weight: bold;
+  color: white;
+
+  text-align: center;
+  margin-bottom: 2%;
+}
+
+.main-menu__part{
+  font-family:Helvetica;
+  font-size:18px;
+  color:white;
+  text-align: center;
+  line-height:220%;
+}
+
+a{
+  color:white;
+}
+
+.process-logic__title{
+  font-family:Helvetica;
+  font-size: 32px;
+  font-weight:bold;
+
+  text-align: center;
+  margin-top: 2%;
+}
+
+.process-logic__name{
+  font-family:Helvetica;
+  font-size:23px;
+  font-weight: bold;
+
+  text-align:center;
+
+  line-height:220%;
+}
+
+.process-logic__comment{
+  font-family:Helvetica;
+  font-size:14px;
+
+  text-align: center;
+
+  line-height:220%;
+}
+
+.process-logic__picture1{
+  ima
+}
+.origin-place{
+  font-family:Helvetica;
+  font-size:23px;
+  font-weight:bold;
+  color:white;
+
+  text-align: center;
+
+  background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
+}
+
+.project-infos{
+  text-align: center;
+}
+
+.project-info{
+  font-family:Helvetica;
+  font-size:23px;
+  font-weight:bold;
+
+  line-height:220%;
+}
+
+.project-info__content{
+  font-family:Helvetica;
+  font-size:14px;
+
+  line-height:220%;
+}
+
+.process-logic__picture{
+  text-align: center;
+}
+.footer-info{
+font-family:Helvetica;
+font-size:11px;
+color:white;
+background-color:dimgray;
+}
