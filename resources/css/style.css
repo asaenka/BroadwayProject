@@ -7,8 +7,8 @@
 .landing-page__header{
   margin-bottom: 1%;
 
-  font-family:Helvetica;
-  font-size:70px;
+  font-family: Helvetica;
+  font-size: 70px;
   font-weight: bold;
   color: white;
   text-align: center;
@@ -16,55 +16,49 @@
 }
 
 .main-menu{
-  font-family:Helvetica;
-  font-size:18px;
-  color:white;
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
   text-align: center;
-
-  line-height:220%
+  line-height: 220%
 }
 
 a{
-  color:white;
+  color: white;
 }
 
 .process-steps__title{
   margin-top: 2%;
 
-  font-family:Helvetica;
+  font-family: Helvetica;
   font-size: 32px;
-  font-weight:bold;
+  font-weight: bold;
   text-align: center;
 }
 
 .process-steps__stage{
-  font-family:Helvetica;
-  font-size:23px;
+  font-family: Helvetica;
+  font-size: 23px;
   font-weight: bold;
-
-  text-align:center;
-
-  line-height:220%;
+  text-align: center;
+  line-height: 220%;
 }
 
 .process-steps__comment{
-  font-family:Helvetica;
-  font-size:14px;
-
+  font-family: Helvetica;
+  font-size: 14px;
   text-align: center;
-
-  line-height:220%;
+  line-height: 220%;
 }
 
 .project__origin-place{
-  font-family:Helvetica;
-  font-size:23px;
-  font-weight:bold;
-  color:white;
-
-  text-align: center;
-
   background-image: url('../images/the-flatiron-building.png');
+
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
 }
 
 .project-infos{
@@ -72,18 +66,16 @@ a{
 }
 
 .project-info{
-  font-family:Helvetica;
-  font-size:23px;
-  font-weight:bold;
-
-  line-height:220%;
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  line-height: 220%;
 }
 
 .project-info__content{
-  font-family:Helvetica;
-  font-size:14px;
-
-  line-height:220%;
+  font-family: Helvetica;
+  font-size: 14px;
+  line-height: 220%;
 }
 
 .process-logic__picture{
@@ -91,13 +83,13 @@ a{
 }
 
 .footer-info__link{
-font-family:Helvetica;
-font-size:18px;
-color:white;
+font-family: Helvetica;
+font-size: 18px;
+color: white;
 padding: 1.5px;
 }
 
 .landing-page__footer{
   display: flex;
-  background-color:dimgray;
+  background-color: dimgray;
 }
