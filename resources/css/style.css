@@ -27,6 +27,14 @@ a {
   line-height: 220%
 }
 
+.process-steps__steps {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 220%;
+}
+
 .process-steps__title {
   margin-top: 2%;
 
@@ -36,15 +44,11 @@ a {
   text-align: center;
 }
 
-.process-steps__stage {
-  font-family: Helvetica;
-  font-size: 23px;
-  font-weight: bold;
-  text-align: center;
-  line-height: 220%;
+.process-step + .process-step {
+  margin-top: 10px;
 }
 
-.process-steps__comment {
+.process-step__comment {
   font-family: Helvetica;
   font-size: 14px;
   text-align: center;
