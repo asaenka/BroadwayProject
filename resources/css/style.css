@@ -27,6 +27,10 @@ a {
   line-height: 220%
 }
 
+.main-menu__link {
+  display: block;
+}
+
 .process-steps__steps {
   font-family: Helvetica;
   font-size: 23px;
@@ -91,6 +95,13 @@ a {
   display: flex;
 
   background-color: dimgray;
+}
+
+.footer__copyright {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  padding: 1.5px;
 }
 
 .footer__link {
