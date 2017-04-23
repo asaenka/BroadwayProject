@@ -16,7 +16,6 @@ a {
   font-weight: bold;
   color: white;
   text-align: center;
-
 }
 
 .main-menu {
@@ -98,15 +97,17 @@ a {
 }
 
 .footer__copyright {
+  padding: 1.5px;
+
   font-family: Helvetica;
   font-size: 18px;
   color: white;
-  padding: 1.5px;
 }
 
 .footer__link {
+  padding: 1.5px;
+
   font-family: Helvetica;
   font-size: 18px;
   color: white;
-  padding: 1.5px;
 }
