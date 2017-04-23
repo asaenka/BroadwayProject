@@ -1,11 +1,16 @@
+a {
+  color: white;
+}
 
-.landing-page{
+.landing-page {
   margin-top: 60px;
+
   background-image: url('../images/the-flatiron-building.png');
 }
 
-.landing-page__header{
+.landing-page__header {
   margin-bottom: 1%;
+
   font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
@@ -14,7 +19,7 @@
 
 }
 
-.main-menu{
+.main-menu {
   font-family: Helvetica;
   font-size: 18px;
   color: white;
@@ -22,19 +27,16 @@
   line-height: 220%
 }
 
-a{
-  color: white;
-}
-
-.process-steps__title{
+.process-steps__title {
   margin-top: 2%;
+
   font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
   text-align: center;
 }
 
-.process-steps__stage{
+.process-steps__stage {
   font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
@@ -42,14 +44,14 @@ a{
   line-height: 220%;
 }
 
-.process-steps__comment{
+.process-steps__comment {
   font-family: Helvetica;
   font-size: 14px;
   text-align: center;
   line-height: 220%;
 }
 
-.project__origin-place{
+.project__origin-place {
   background-image: url('../images/the-flatiron-building.png');
 
   font-family: Helvetica;
@@ -59,35 +61,36 @@ a{
   text-align: center;
 }
 
-.project-infos{
+.project-infos {
   text-align: center;
 }
 
-.project-info{
+.project-info {
   font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
   line-height: 220%;
 }
 
-.project-info__content{
+.project-info__content {
   font-family: Helvetica;
   font-size: 14px;
   line-height: 220%;
 }
 
-.process-logic__picture{
+.process-logic__picture {
   text-align: center;
 }
 
-.footer-info__link{
-font-family: Helvetica;
-font-size: 18px;
-color: white;
-padding: 1.5px;
+.footer-info__link {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  padding: 1.5px;
 }
 
-.landing-page__footer{
+.landing-page__footer {
   display: flex;
+
   background-color: dimgray;
 }
