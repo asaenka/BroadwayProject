@@ -4,12 +4,12 @@ a {
 
 .landing-page {
   margin-top: 60px;
-
-  background-image: url('../images/the-flatiron-building.png');
 }
 
 .landing-page__header {
   margin-bottom: 1%;
+
+  background-image: url('../images/the-flatiron-building.png');
 
   font-family: Helvetica;
   font-size: 70px;
@@ -82,15 +82,15 @@ a {
   text-align: center;
 }
 
-.footer-info__link {
+.footer {
+  display: flex;
+
+  background-color: dimgray;
+}
+
+.footer__link {
   font-family: Helvetica;
   font-size: 18px;
   color: white;
   padding: 1.5px;
-}
-
-.landing-page__footer {
-  display: flex;
-
-  background-color: dimgray;
 }
